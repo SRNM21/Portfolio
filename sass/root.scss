@@ -724,7 +724,7 @@ section
     background-color: $gray-3;
     overflow: hidden;
     padding: $ws-2;
-    transition: all 0.15s ease-in-out;
+    transition: all 0.30s ease-in-out;
     background-size: cover;
     background-blend-mode: overlay;
     background-position: center;
@@ -733,7 +733,7 @@ section
     {
         @include size(100%, 100%);
         object-fit: contain;
-        transition: all 0.15s ease-in-out;
+        transition: all 0.30s ease-in-out;
     }
 }
 

@@ -629,7 +629,7 @@ section {
   background-color: #374151;
   overflow: hidden;
   padding: 16px;
-  transition: all 0.15s ease-in-out;
+  transition: all 0.3s ease-in-out;
   background-size: cover;
   background-blend-mode: overlay;
   background-position: center;
@@ -639,7 +639,7 @@ section {
   width: 100%;
   -o-object-fit: contain;
      object-fit: contain;
-  transition: all 0.15s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .project-img:hover {
